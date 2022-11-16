@@ -115,6 +115,7 @@ section {
     margin: 2vh auto;
     border-color: red;
     position: relative;
+    margin-top:6vh;
 }
 
 .text, .image {
@@ -129,11 +130,10 @@ section {
 
  .text {
     width: 60%;
-    margin: 3%;
+    margin: 0 3%;
     line-height: 1.5;
     padding: 2%;
     /* position: absolute; */
-    padding-bottom: 5%;
  }
 
 
@@ -200,7 +200,7 @@ section {
 
 footer {
     background-color: #F9E7DC;
-    padding: 4%;
+    padding: 2%;
     width: 100%;
 }
 
